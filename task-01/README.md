@@ -4,6 +4,7 @@
 1.  DataSets 
 Here we are using ``` Mall_Customers.csv```
 
+
 2.  Preprocessing 
 ```CustomerID', 'Gender``` are the feature that we are using here.
 - used the Standard Scalar
@@ -16,5 +17,5 @@ Here we are using ``` Mall_Customers.csv```
 - used Matplotlib for visualization
 
 4. Result
-as a result plotted the graph between the ```Annual Income ``` and ``` Spending Score```
- 
+As a result plotted the graph between the ```Annual Income ``` and ``` Spending Score```
+we used the real world Data from kaggle
